@@ -1,0 +1,9 @@
+bb27194a
+0xBB27194A{
+	hash: 32
+	rnd : 4
+	thrd: 1
+	prec: 0xBB27194A
+	Pimg: 0xD4F4EB71
+	time: 3659.795s
+}

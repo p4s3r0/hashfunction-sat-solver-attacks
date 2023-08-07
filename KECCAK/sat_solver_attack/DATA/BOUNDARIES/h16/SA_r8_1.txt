@@ -1,0 +1,6 @@
+Rounds  : 8
+HashLen : 4
+Hash    : 0xf99f
+F_Hash  : 0xf99f5778bbba13d522bf7b811b6f165fa8326d512ca1d43d52
+F_PImg  : 0x9f634c355258319d
+exe_time: 221s

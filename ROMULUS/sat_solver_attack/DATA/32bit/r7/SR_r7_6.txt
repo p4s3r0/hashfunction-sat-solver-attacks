@@ -1,0 +1,6 @@
+HashLen  : 32
+Rounds   : 7
+HashV    : 0xfeba1267
+FoundHash: 0xfeba1267ca4ed96cf1611c3f85bd77f8
+FoundPImg: 0x4387ffadb4a746043abd19ff465b73df55d7d8730ab94102a186f0e752025cd0
+Execution time: 272s

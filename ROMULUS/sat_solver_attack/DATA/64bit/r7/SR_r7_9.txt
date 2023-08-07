@@ -1,0 +1,6 @@
+HashLen  : 64
+Rounds   : 7
+HashV    : 0xbb27194abb2719
+FoundHash: 0x0bb27194abb2719ade131fb145cd682
+FoundPImg: 0x64ce1c12722bbfda039261e7893a0aaac1d65037b1bcd57ab308fd8dc0ae8750
+Execution time: 196s

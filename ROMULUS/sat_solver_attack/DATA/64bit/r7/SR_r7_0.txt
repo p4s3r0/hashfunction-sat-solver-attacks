@@ -1,0 +1,6 @@
+HashLen  : 64
+Rounds   : 7
+HashV    : 0xbea4781fbea4781f
+FoundHash: 0xbea4781fbea4781f1e9d3d888bca5cf6
+FoundPImg: 0x8accc3b7bd3b60cfdbae4072d6899f74a0fc8879d34d48c06518c40a6997b390
+Execution time: 483s

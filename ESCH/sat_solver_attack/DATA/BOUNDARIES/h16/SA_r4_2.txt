@@ -1,0 +1,6 @@
+Rounds  : 4  ->  BIG_STEPS(4) | SMALL_STEPS(0)
+HashLen : 4
+Hash    : 0x224e
+F_Hash  : 0x224ea02a180700c77a5dc390c02eb8cf224ea02a180700c77a5dc390c02eb8cf
+F_PImg  : 0x8daf35d5fbb5b4bf
+exe_time: 150s

@@ -1,0 +1,7 @@
+{
+	hash: 16
+	thrd: 1
+	prec: 0x0101
+	Pimg: 0xC5BB010000000000
+	time: 0.359s
+}

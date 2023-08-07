@@ -1,0 +1,7 @@
+{
+	hash: 32
+	thrd: 1
+	prec: 0xFEBA1267
+	Pimg: 0xBA8DF33000000000
+	time: 570.982s
+}

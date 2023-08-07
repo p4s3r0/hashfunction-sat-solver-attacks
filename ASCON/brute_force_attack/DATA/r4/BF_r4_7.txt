@@ -1,0 +1,9 @@
+123f71bc
+0x123F71BC{
+	hash: 32
+	rnd : 4
+	thrd: 1
+	prec: 0x123F71BC
+	Pimg: 0xC121806B
+	time: 4644.465s
+}

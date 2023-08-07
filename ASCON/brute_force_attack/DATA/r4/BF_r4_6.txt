@@ -1,0 +1,9 @@
+feba1267
+0xFEBA1267{
+	hash: 32
+	rnd : 4
+	thrd: 1
+	prec: 0xFEBA1267
+	Pimg: 0xBBEF2B7E
+	time: 5491.839s
+}

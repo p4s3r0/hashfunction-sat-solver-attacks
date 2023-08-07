@@ -1,0 +1,6 @@
+Rounds  : 6
+HashLen : 4
+Hash    : 0x34a8
+F_Hash  : 0x34a8279ecaca53f28892753cfb5bd9b6ba0cb9d18dd4eb6e073569468a84b31a
+F_PImg  : 0xf5bf3b5e950a6a78
+exe_time: 758s

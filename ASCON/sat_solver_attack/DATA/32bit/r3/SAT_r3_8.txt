@@ -1,0 +1,6 @@
+HashLen  : 32
+Rounds   : 3
+HASH     : 0xb2b91842
+FoundHash: 0xb2b91842b5c2c8e9
+FoundPImg: 0x2bc69edaefea4880
+Execution time: 360s

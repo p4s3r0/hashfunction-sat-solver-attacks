@@ -1,0 +1,6 @@
+HashLen  : 32
+Rounds   : 7
+HashV    : 0x4fabe281
+FoundHash: 0x4fabe281bbf077cd6d78fb20c4523ce
+FoundPImg: 0xcc7503411a2137b2ca95929694fb79f432994ea8d90a9d9faeafec83b3197ad0
+Execution time: 327s

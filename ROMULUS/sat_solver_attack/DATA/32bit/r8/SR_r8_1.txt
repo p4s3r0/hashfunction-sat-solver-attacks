@@ -1,0 +1,6 @@
+HashLen  : 32
+Rounds   : 8
+HashV    : 0x1010101
+FoundHash: 0x111197a1e88b14e877bee976ea84
+FoundPImg: 0xa2ddb3a99b40410860ecef42b6021347479b9212e5217c0c01c0ba1c77a64cd0
+Execution time: 2249s

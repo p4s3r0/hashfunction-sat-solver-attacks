@@ -1,0 +1,6 @@
+Rounds  : 4  ->  BIG_STEPS(4) | SMALL_STEPS(0)
+HashLen : 5
+Hash    : 0x34a86
+F_Hash  : 0x34a86bbca914f3a4eb4cb525684225c734a86bbca914f3a4eb4cb525684225c7
+F_PImg  : 0xdc79d6c832be7cd5
+exe_time: 23513s

@@ -1,0 +1,6 @@
+Rounds  : 6  ->  BIG_STEPS(6) | SMALL_STEPS(2)
+HashLen : 2
+Hash    : 0x22
+F_Hash  : 0x227d1b57a0641a241459fb7304121200ba93e74e933f2bb3931ad925bee83eeb
+F_PImg  : 0x840a111e6391ccde
+exe_time: 68s

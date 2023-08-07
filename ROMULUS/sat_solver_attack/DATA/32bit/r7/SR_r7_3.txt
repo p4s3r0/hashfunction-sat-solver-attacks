@@ -1,0 +1,6 @@
+HashLen  : 32
+Rounds   : 7
+HashV    : 0x71fabd38
+FoundHash: 0x71fabd38fb9f1a3bb48f96e05711734b
+FoundPImg: 0x135dc4969ee1994b746eb8f560afa327e279fbbf2cc0dcd54956031d2097ff10
+Execution time: 656s

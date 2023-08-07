@@ -1,0 +1,9 @@
+cccccccc
+0xCCCCCCCC{
+	hash: 32
+	rnd : 2
+	thrd: 1
+	prec: 0xCCCCCCCC
+	Pimg: 0x677BB301
+	time: 60.941s
+}

@@ -1,0 +1,9 @@
+b2b91842
+0xB2B91842{
+	hash: 32
+	rnd : 4
+	thrd: 1
+	prec: 0xB2B91842
+	Pimg: 0x1C84B001
+	time: 13985.895s
+}

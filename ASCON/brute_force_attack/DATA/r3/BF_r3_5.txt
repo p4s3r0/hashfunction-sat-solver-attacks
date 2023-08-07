@@ -1,0 +1,9 @@
+f219462e
+0xF219462E{
+	hash: 32
+	rnd : 3
+	thrd: 1
+	prec: 0xF219462E
+	Pimg: 0xDBF9F99E
+	time: 9254.309s
+}

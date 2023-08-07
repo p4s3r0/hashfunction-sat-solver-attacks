@@ -1,0 +1,9 @@
+189a3b92
+0x189A3B92{
+	hash: 32
+	rnd : 3
+	thrd: 1
+	prec: 0x189A3B92
+	Pimg: 0x4214F341
+	time: 2397.624s
+}

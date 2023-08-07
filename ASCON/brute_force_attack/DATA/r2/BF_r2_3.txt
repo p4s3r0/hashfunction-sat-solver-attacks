@@ -1,0 +1,9 @@
+71fabd382
+0x1FABD382{
+	hash: 32
+	rnd : 2
+	thrd: 1
+	prec: 0x1FABD382
+	Pimg: 0x4629B95E
+	time: 2062.390s
+}

@@ -1,0 +1,6 @@
+HashLen  : 32
+Rounds   : 2
+HASH     : 0xfeba1267
+FoundHash: 0xfeba1267612da18c
+FoundPImg: 0x3c5d1a034c5d8480
+Execution time: 1s

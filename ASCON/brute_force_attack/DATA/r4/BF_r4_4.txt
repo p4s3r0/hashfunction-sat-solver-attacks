@@ -1,0 +1,9 @@
+4fabe281
+0x4FABE281{
+	hash: 32
+	rnd : 4
+	thrd: 1
+	prec: 0x4FABE281
+	Pimg: 0xCF23C782
+	time: 4634.406s
+}
