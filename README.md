@@ -10,4 +10,4 @@ During the investigation, we extensively evaluated the performance of SAT-Solver
 - yellow $\rightarrow$ Vulnerable to SAT-Solver attacks (Solution was found in under 24 hours)
 - green $\rightarrow$ Not Vulnerable to SAT-Solver attacks (Solutin was not found in under 24 hours)
 
-For further readings, head to the [paper](https://docs.google.com/viewer?url=https://fileserver.p4s3r0.com/personal/documents/bac_thesis.pdf) of the research.
+For further readings, head to the [paper](https://docs.google.com/viewer?url=https://fileserver.p4s3r0.it/personal/documents/bac_thesis.pdf) of the research.
